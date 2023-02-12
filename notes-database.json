@@ -3,8 +3,16 @@
     "groups": [],
     "categories_last_id": 0,
     "categories": [],
-    "articles_last_id": 0,
-    "articles": [],
+    "articles_last_id": 1,
+    "articles": [
+        {
+            "name": "Статья о проекте",
+            "category_id": "",
+            "hash_name": "skf7w",
+            "html": "",
+            "id": 1
+        }
+    ],
     "favorites_last_id": 0,
     "favorites": [],
     "tags_last_id": 0,
