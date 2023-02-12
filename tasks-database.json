@@ -38,9 +38,9 @@
         },
         {
             "id": 2,
-            "block_id": 2,
+            "block_id": 3,
             "name": "MRP",
-            "short_description": "",
+            "short_description": "https://ru.wikipedia.org/wiki/MRP",
             "description": "",
             "color": "",
             "use_color": false
