@@ -23,7 +23,7 @@
             "is_opened": true
         }
     ],
-    "articles_last_id": 1,
+    "articles_last_id": 2,
     "articles": [
         {
             "name": "Статья о проекте",
@@ -31,6 +31,12 @@
             "hash_name": "skf7w",
             "html": "",
             "id": 1
+        },
+        {
+            "name": "ext4",
+            "category_id": 4,
+            "hash_name": "1nj5c",
+            "id": 2
         }
     ],
     "favorites_last_id": 0,
