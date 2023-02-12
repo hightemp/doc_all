@@ -19,22 +19,8 @@
         {
             "id": 1,
             "name": "Категория 1",
-            "is_opened": false,
+            "is_opened": true,
             "parent_id": null,
-            "group_id": "1"
-        },
-        {
-            "id": 2,
-            "name": "Категория 2",
-            "is_opened": false,
-            "parent_id": "1",
-            "group_id": "1"
-        },
-        {
-            "id": 3,
-            "name": "Супер-пупер Категория 3",
-            "is_opened": false,
-            "parent_id": "2",
             "group_id": "1"
         },
         {
@@ -74,20 +60,6 @@
             "category_id": "1",
             "html": "sadf asfdasf asdf",
             "hash_name": "aaaaa4"
-        },
-        {
-            "id": 5,
-            "name": "Derartige zum Ausgleich",
-            "category_id": "2",
-            "html": "sadf asfdasf asdf",
-            "hash_name": "aaaaa5"
-        },
-        {
-            "id": 6,
-            "name": "der bei der Kapitalklasse vorgenommen werden",
-            "category_id": "3",
-            "html": "sadf asfdasf asdf",
-            "hash_name": "aaaaa6"
         }
     ],
     "favorites_last_id": 1,
