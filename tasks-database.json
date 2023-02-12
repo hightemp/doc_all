@@ -1,1 +1,42 @@
-{"tasks_groups_last_id":1,"tasks_groups":[{"id":1,"name":"Задачи","color":"#48ae19"}],"tasks_blocks_last_id":3,"tasks_blocks":[{"id":1,"group_id":1,"name":"Найти"},{"id":2,"group_id":1,"name":"В поиске"},{"id":3,"group_id":1,"name":"Найденное"}],"tasks_last_id":1,"tasks":[{"id":1,"block_id":1,"name":"SDRAM","short_description":"","description":"","color":"","use_color":false}],"archived_tasks_last_id":0,"archived_tasks":[]}
+{
+    "tasks_groups_last_id": 1,
+    "tasks_groups": [
+        {
+            "id": 1,
+            "name": "Задачи",
+            "color": "#48ae19"
+        }
+    ],
+    "tasks_blocks_last_id": 3,
+    "tasks_blocks": [
+        {
+            "id": 1,
+            "group_id": 1,
+            "name": "Найти"
+        },
+        {
+            "id": 2,
+            "group_id": 1,
+            "name": "В поиске"
+        },
+        {
+            "id": 3,
+            "group_id": 1,
+            "name": "Найденное"
+        }
+    ],
+    "tasks_last_id": 1,
+    "tasks": [
+        {
+            "id": 1,
+            "block_id": 2,
+            "name": "SDRAM",
+            "short_description": "",
+            "description": "",
+            "color": "",
+            "use_color": false
+        }
+    ],
+    "archived_tasks_last_id": 0,
+    "archived_tasks": []
+}
