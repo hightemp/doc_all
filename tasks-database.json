@@ -25,13 +25,22 @@
             "name": "Найденное"
         }
     ],
-    "tasks_last_id": 1,
+    "tasks_last_id": 2,
     "tasks": [
         {
             "id": 1,
             "block_id": 3,
             "name": "SDRAM",
             "short_description": "https://ru.wikipedia.org/wiki/SDRAM",
+            "description": "",
+            "color": "",
+            "use_color": false
+        },
+        {
+            "id": 2,
+            "block_id": 2,
+            "name": "MRP",
+            "short_description": "",
             "description": "",
             "color": "",
             "use_color": false
