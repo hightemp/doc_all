@@ -1,6 +1,11 @@
 {
-    "groups_last_id": 0,
-    "groups": [],
+    "groups_last_id": 1,
+    "groups": [
+        {
+            "name": "Linux",
+            "id": 1
+        }
+    ],
     "categories_last_id": 0,
     "categories": [],
     "articles_last_id": 1,
