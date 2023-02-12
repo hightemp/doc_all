@@ -7,18 +7,7 @@
         }
     ],
     "categories_last_id": 2,
-    "categories": [
-        {
-            "name": "Файловые системы",
-            "parent_id": "",
-            "id": 1
-        },
-        {
-            "name": "Файловые системы",
-            "parent_id": "",
-            "id": 2
-        }
-    ],
+    "categories": [],
     "articles_last_id": 1,
     "articles": [
         {
