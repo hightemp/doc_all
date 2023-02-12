@@ -25,7 +25,7 @@
             "name": "Найденное"
         }
     ],
-    "tasks_last_id": 2,
+    "tasks_last_id": 3,
     "tasks": [
         {
             "id": 1,
@@ -41,6 +41,15 @@
             "block_id": 3,
             "name": "MRP",
             "short_description": "https://ru.wikipedia.org/wiki/MRP",
+            "description": "",
+            "color": "",
+            "use_color": false
+        },
+        {
+            "id": 3,
+            "block_id": 2,
+            "name": "MRP II",
+            "short_description": "https://ru.wikipedia.org/wiki/MRP_II",
             "description": "",
             "color": "",
             "use_color": false
