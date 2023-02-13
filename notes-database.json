@@ -26,13 +26,6 @@
     "articles_last_id": 2,
     "articles": [
         {
-            "name": "Статья о проекте",
-            "category_id": "",
-            "hash_name": "skf7w",
-            "html": "",
-            "id": 1
-        },
-        {
             "name": "ext4",
             "category_id": 4,
             "hash_name": "1nj5c",
