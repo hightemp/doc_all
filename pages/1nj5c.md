@@ -1,27 +1,5 @@
 <h2>EXT filesystem history</h2>
 <p>Although written for Linux, the EXT filesystem has its roots in the Minix operating system and the Minix filesystem, which predate Linux by about five years, being first released in 1987. Understanding the EXT4 filesystem is much easier if we look at the history and technical evolution of the EXT filesystem family from its Minix roots.</p>
-<p>&nbsp;</p>
-<div class="embedded-callout-menu callout-float-right"><a class="focusable skip-link skip-link--resources" href="https://opensource.com/article/17/5/introduction-ext4-filesystem">SKIP TO CONTENT</a>
-<div class="view view-related-content-callout view-id-related_content_callout view-display-id-default">
-<div class="view-header">
-<p>More Linux resources</p>
-</div>
-<div class="view-content">
-<div class="item-list">
-<ul>
-<li><a href="https://developers.redhat.com/cheat-sheets/linux-commands-cheat-sheet/?intcmp=70160000000h1jYAAQ&amp;utm_source=intcallout&amp;utm_campaign=linuxcontent">Linux commands cheat sheet</a></li>
-<li><a href="https://developers.redhat.com/cheat-sheets/advanced-linux-commands/?intcmp=70160000000h1jYAAQ&amp;utm_source=intcallout&amp;utm_campaign=linuxcontent">Advanced Linux commands cheat sheet</a></li>
-<li><a href="https://www.redhat.com/en/services/training/rh024-red-hat-linux-technical-overview?intcmp=70160000000h1jYAAQ&amp;utm_source=intcallout&amp;utm_campaign=linuxcontent">Free online course: RHEL Technical Overview</a></li>
-<li><a href="https://opensource.com/downloads/cheat-sheet-networking?intcmp=70160000000h1jYAAQ&amp;utm_source=intcallout&amp;utm_campaign=linuxcontent">Linux networking cheat sheet</a></li>
-<li><a href="https://opensource.com/downloads/cheat-sheet-selinux?intcmp=70160000000h1jYAAQ&amp;utm_source=intcallout&amp;utm_campaign=linuxcontent">SELinux cheat sheet</a></li>
-<li><a href="https://opensource.com/downloads/linux-common-commands-cheat-sheet?intcmp=70160000000h1jYAAQ&amp;utm_source=intcallout&amp;utm_campaign=linuxcontent">Linux common commands cheat sheet</a></li>
-<li><a href="https://opensource.com/resources/what-are-linux-containers?intcmp=70160000000h1jYAAQ&amp;utm_source=intcallout&amp;utm_campaign=linuxcontent">What are Linux containers?</a></li>
-<li><a href="https://opensource.com/tags/linux?intcmp=70160000000h1jYAAQ&amp;utm_source=intcallout&amp;utm_campaign=linuxcontent">Our latest Linux articles</a></li>
-</ul>
-</div>
-</div>
-</div>
-</div>
 <h2>Minix</h2>
 <p>When writing the original Linux kernel, Linus Torvalds needed a filesystem but didn't want to write one then. So he simply included the&nbsp;<a href="https://en.wikipedia.org/wiki/MINIX_file_system" target="_blank" rel="noopener">Minix filesystem</a>, which had been written by&nbsp;<a href="https://en.wikipedia.org/wiki/Andrew_S._Tanenbaum" target="_blank" rel="noopener">Andrew S. Tanenbaum</a>&nbsp;and was a part of Tanenbaum's Minix operating system.&nbsp;<a href="https://en.wikipedia.org/wiki/MINIX" target="_blank" rel="noopener">Minix</a>&nbsp;was a Unix-like operating system written for educational purposes. Its code was freely available and&nbsp;appropriately licensed to allow Torvalds to include it in his first version of Linux.</p>
 <p>Minix has the following structures, most of which are located in the partition where the filesystem is generated:</p>
