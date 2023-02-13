@@ -1,4 +1,4 @@
 # Оглавление
 
 - [Статья о проекте](/pages/skf7w.html)
-- [Описание файловой системы ext4](/pages/1nj5c.html)
+- [ext4](/pages/1nj5c.html)
