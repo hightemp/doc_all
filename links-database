@@ -1,6 +1,6 @@
 {
     "table": {
-        "last_index": 1,
+        "last_index": 2,
         "page": 1,
         "data": [
             {
@@ -9,6 +9,13 @@
                 "url": "https://github.com/vercel/pkg",
                 "description": "",
                 "id": 1
+            },
+            {
+                "category": "программирование",
+                "name": "Experimentally compiling PHP code to Rust",
+                "url": "https://ryangjchandler.co.uk/posts/experimentally-compiling-php-code-to-rust",
+                "description": "",
+                "id": 2
             }
         ],
         "selection_id": null,
