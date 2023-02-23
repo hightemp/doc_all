@@ -1,6 +1,6 @@
 {
     "table": {
-        "last_index": 2,
+        "last_index": 3,
         "page": 1,
         "data": [
             {
@@ -16,6 +16,13 @@
                 "url": "https://ryangjchandler.co.uk/posts/experimentally-compiling-php-code-to-rust",
                 "description": "",
                 "id": 2
+            },
+            {
+                "category": "программирование",
+                "name": "vue - Building a Desktop App with Electron and Vue.js",
+                "url": "https://buddy.works/tutorials/building-a-desktop-app-with-electron-and-vue-js",
+                "description": "",
+                "id": 3
             }
         ],
         "selection_id": null,
