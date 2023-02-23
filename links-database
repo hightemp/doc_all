@@ -4,7 +4,7 @@
         "page": 1,
         "data": [
             {
-                "category": "",
+                "category": "программирование",
                 "name": "nodejs - pkg - упаковщик приложения",
                 "url": "https://github.com/vercel/pkg",
                 "description": "",
