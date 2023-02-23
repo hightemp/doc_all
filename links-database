@@ -1,0 +1,27 @@
+{
+    "table": {
+        "last_index": 0,
+        "page": 1,
+        "data": [],
+        "selection_id": null,
+        "filter": {
+            "category": "",
+            "name": "",
+            "url": "",
+            "description": ""
+        }
+    },
+    "settings": {
+        "data": {
+            "save_to_local": false,
+            "save_to_all_repos": false
+        },
+        "selection_id": null,
+        "filter": {
+            "id": "",
+            "label": "",
+            "type": "",
+            "value": ""
+        }
+    }
+}
